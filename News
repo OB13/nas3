@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY_NEWS
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/SKY_NEWS_1224_500_480x360_1090010/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",KTN_NEWS
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/KTN_NEWS_918_500_480x360_195044/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AFRICA_NEWS
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/AFRICA__NEWS_868_500_480x360_193960/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNC
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/CNC_683_500_480x360__TS/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FRANCE_24_E
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/FRANCE_24_E_814_350_320x240_191244/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AIT
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/AIT_1142_500_480x360_531946/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL_JAZEERA
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/AL_JAZEERA_998_350_480x360_210864/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX_News
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/FOX_News_786_500_480x360_191112/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",OGTN
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/CGTN_982_500_480x360_203712/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC_WORLD
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/BBC_WORLD_NEWS_818_500_480x360_191582/playlist.m3u8
